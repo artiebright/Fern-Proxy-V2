@@ -43,12 +43,6 @@ go directly to the [examples](examples/) directory!
 Otherwise, Fern proxy follows the [_Gazr_](https://gazr.io) approach, to ease
 evaluation, on-boarding, and development.
 
-Most useful commands:
-
-* `make run`: locally run Fern proxy, built in a _release_ mode
-* `make watch`: locally run Fern proxy with hot reloading on code changes
-
-For completeness, execute `make help` to display all available commands.
 
 
 ## Community and Contribution
